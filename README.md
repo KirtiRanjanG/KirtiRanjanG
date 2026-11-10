@@ -2,7 +2,7 @@
 <!-- ============ HEADER BANNER (animated waves) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20YOUR%20NAME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Python%20Developer%20%7C%20Fresher&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Kirti%20Ranjan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Python%20Developer%20%7C%20Fresher&descSize=20&descAlignY=60" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://git.io/typing-svg">
@@ -23,7 +23,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "YOUR NAME"
+        self.name = "Kirti Ranjan Ghadei"
         self.role = "GenAI & Python Developer (Fresher)"
         self.location = "India 🇮🇳"
         self.focus = ["Generative AI", "LLMs", "RAG", "Python"]
@@ -143,7 +143,7 @@ me.say_hi()
 
 - [x] Master Python fundamentals & OOP
 - [x] Build first LLM-powered application
-- [ ] Complete a RAG project with a vector database
+- [x] Complete a RAG project with a vector database
 - [ ] Build an Agentic AI workflow
 - [ ] Contribute to open source
 - [ ] Land a GenAI / Python developer role 🎉
@@ -164,11 +164,11 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kirtiranjanghadei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gkirtiranjan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.kaggle.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
 
 <br/><br/>
 
